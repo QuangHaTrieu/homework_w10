@@ -31,6 +31,7 @@
   } ],
     "width": 600,
     "height": 300,
+    "title": "The number of trips by purpose to different regions",
     "transform": [
       {"fold": ["Holiday","Visiting friends and relatives","Business","Other","Total"], "as": ["Purpose", "Value"]},
         {
