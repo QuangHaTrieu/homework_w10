@@ -1,0 +1,31 @@
+"Region","Purpose","Value"
+"NSW","Holiday",15590.36
+"NSW","Visiting friends and relatives",12981.91
+"NSW","Business",6994.33
+"NSW","Other",2357.23
+"NSW","Total",37138.29
+"VIC","Holiday",13331.85
+"VIC","Visiting friends and relatives",9583.24
+"VIC","Business",4554.29
+"VIC","Other",1385.3
+"VIC","Total",28512.61
+"QLD","Holiday",10793.63
+"QLD","Visiting friends and relatives",8098.78
+"QLD","Business",5757.79
+"QLD","Other",1492.14
+"QLD","Total",25587.98
+"SA","Holiday",3164.15
+"SA","Visiting friends and relatives",2363.41
+"SA","Business",1673.54
+"SA","Other",496.28
+"SA","Total",7573.74
+"WA","Holiday",4376.27
+"WA","Visiting friends and relatives",2663.03
+"WA","Business",3417.19
+"WA","Other",757.84
+"WA","Total",11028.68
+"ACT","Holiday",816.34
+"ACT","Visiting friends and relatives",1171.92
+"ACT","Business",906.37
+"ACT","Other",230.18
+"ACT","Total",3123.45
