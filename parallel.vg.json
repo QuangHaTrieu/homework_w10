@@ -31,7 +31,7 @@
   } ],
     "width": 600,
     "height": 300,
-    "title": "The number of domestic trips by purpose to different regions in Australia from March 2024 to June 2024",
+    "title": "The number of domestic trips by purpose to different regions in Australia from June 2023 to June 2024",
     "transform": [
       {"fold": ["Holiday","Visiting friends and relatives","Business","Other","Total"], "as": ["Purpose", "Value"]},
         {
